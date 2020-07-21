@@ -1,0 +1,2 @@
+G:\FPS-Practice\FightingTool\Intermediate\Build\Win64\UE4Editor\Development\FightingTool\Definitions.FightingTool.h
+G:\FPS-Practice\FightingTool\Source\FightingTool\FightingTool.h

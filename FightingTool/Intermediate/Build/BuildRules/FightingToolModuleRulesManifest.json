@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\FPS-Practice\\FightingTool\\Source\\FightingTool\\FightingTool.Build.cs",
+		"G:\\FPS-Practice\\FightingTool\\Source\\FightingTool.Target.cs",
+		"G:\\FPS-Practice\\FightingTool\\Source\\FightingToolEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

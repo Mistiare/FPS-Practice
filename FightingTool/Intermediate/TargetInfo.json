@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FightingTool",
+			"Path": "G:\\FPS-Practice\\FightingTool\\Source\\FightingTool.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FightingToolEditor",
+			"Path": "G:\\FPS-Practice\\FightingTool\\Source\\FightingToolEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
